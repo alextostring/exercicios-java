@@ -19,5 +19,7 @@ public class Ex01 {
             System.out.println("A soma de A + B é " + sum);
             System.out.println("A soma é menor que C");
         }
+
+        sc.close();
     }
 }
